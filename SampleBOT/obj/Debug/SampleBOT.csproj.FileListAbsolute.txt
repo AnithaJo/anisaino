@@ -1,0 +1,129 @@
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Bot Application1.dll.config
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Bot Application1.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Bot Application1.pdb
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Autofac.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Chronic.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.Bot.Builder.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.Bot.Connector.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Newtonsoft.Json.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.Net.Http.Formatting.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.Web.Http.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.Web.Http.WebHost.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Autofac.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.Bot.Builder.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.Bot.Connector.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\Newtonsoft.Json.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.Net.Http.Formatting.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.Web.Http.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\System.Web.Http.WebHost.xml
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\obj\Debug\Bot Application1.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\obj\Debug\Bot Application1.pdb
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\bin\ApiAiSDK.dll
+C:\Users\h225456\Desktop\SampleBOT\SampleBOT\obj\Debug\SampleBOT.csprojResolveAssemblyReference.cache
+C:\shrutippv\SampleBOT\SampleBOT\bin\Bot Application1.dll.config
+C:\shrutippv\SampleBOT\SampleBOT\bin\Bot Application1.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Bot Application1.pdb
+C:\shrutippv\SampleBOT\SampleBOT\bin\ApiAiSDK.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Autofac.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Chronic.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Builder.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Connector.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Newtonsoft.Json.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.Net.Http.Formatting.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.Web.Http.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.Web.Http.WebHost.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\Autofac.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Builder.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Connector.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.Rest.ClientRuntime.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\Newtonsoft.Json.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.Net.Http.Formatting.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.Web.Http.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\System.Web.Http.WebHost.xml
+C:\shrutippv\SampleBOT\SampleBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\shrutippv\SampleBOT\SampleBOT\obj\Debug\Bot Application1.dll
+C:\shrutippv\SampleBOT\SampleBOT\obj\Debug\Bot Application1.pdb
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Bot Application1.dll.config
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Bot Application1.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Bot Application1.pdb
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\ApiAiSDK.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Autofac.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Chronic.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Builder.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Connector.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Newtonsoft.Json.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.Net.Http.Formatting.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.Web.Http.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.Web.Http.WebHost.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Autofac.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Builder.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Bot.Connector.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Newtonsoft.Json.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.Net.Http.Formatting.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.Web.Http.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.Web.Http.WebHost.xml
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\obj\Debug\Bot Application1.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\obj\Debug\Bot Application1.pdb
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\obj\Debug\SampleBOT.csprojResolveAssemblyReference.cache
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\CommandManager.BLL.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\FireEclectus.DAL.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Data.Services.Client.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Data.OData.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Data.Edm.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\System.Spatial.dll
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\CommandManager.BLL.pdb
+C:\Users\h225456\Desktop\ppv\SampleBOT\SampleBOT\bin\FireEclectus.DAL.pdb
